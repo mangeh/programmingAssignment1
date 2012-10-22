@@ -1,6 +1,7 @@
 import java.io.IOException;
 
 //** Added this comment
+//Added this one too
 
 public class Game {
 	
